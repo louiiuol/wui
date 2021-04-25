@@ -1,0 +1,11 @@
+/* STYLES FOR DEVELOPMENT SERVER ONLY */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  html, body, app-root {
+    margin: 0;
+    width: 100vw;
+    min-height: 100vh;
+  }
+}
